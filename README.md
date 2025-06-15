@@ -23,7 +23,33 @@ Users can browse menus, explore dishes, and enjoy a clean, intuitive interface i
 - CSS3  
 - Flexbox & Media Queries
 
- ✍️ **Note**
-- To experience the full interface on both desktop and mobile devices, explore the respective folders in this repository.
+🖥️ **Desktop View**
 
-*Every line of code I write feels like turning imagination into interaction.*
+- Main/Home Page
+![main-home-page](https://github.com/user-attachments/assets/15db3ec6-df5d-4c3a-8599-acd33b15ef54)
+
+- Menu Section
+![menu-section](https://github.com/user-attachments/assets/ffe6a2db-53ec-4d68-885c-38fa5514b3f2)
+
+- Dishes Section
+![dishes-section](https://github.com/user-attachments/assets/fe70213d-539f-443d-a417-f9c1dd6b0e0a)
+
+- Footer Section
+![footer-section](https://github.com/user-attachments/assets/ba257ea3-4c82-4166-87b6-1a721da48921)
+
+- Sign Up Prompt
+![signUp-prompt](https://github.com/user-attachments/assets/2cd077bc-aa2e-4bc4-be1a-1f8342b0b6dc)
+
+- Login Prompt
+![logIn-prompt](https://github.com/user-attachments/assets/fbea3a76-07af-4dc2-815d-2cb98aa8760b)
+
+- Cart Page
+![cart-page](https://github.com/user-attachments/assets/0d6f9375-cc99-4456-bbc1-e812e401eb92)
+
+- Address Page
+![address-page](https://github.com/user-attachments/assets/db1bf372-23c9-42cc-baa2-b9f16d9c075e)
+
+ ✍️ **Note**
+- To experience the full interface on mobile device, explore the respective folders in this repository.
+
+*Every line of code feels like turning imagination into interaction.*
